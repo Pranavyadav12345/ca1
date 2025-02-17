@@ -1,1 +1,2 @@
 Initial git work flow
+Added more details to the workflow.txt.
